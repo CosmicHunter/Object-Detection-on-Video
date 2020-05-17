@@ -14,9 +14,10 @@ To make the predictions on the image frames we have made use of pretrained weigh
    
 * We have the ssd.py file in the working folder that contains the architecture of the single shot multibox detector this is taken from the above mentioned repository. Its the pytorch implementation of the ssd.
 
-* The pretrained weights file that is used to load the weights can be found ![here](https://s3.amazonaws.com/amdegroot-models/ssd300_mAP_77.43_v2.pth). We will simply load this file
-   to do the object detection using the pretrained model.
-   We will transfer these weights to the model we implement.
+* The pretrained weights file that is used to load the weights can be found 
+   -  https://s3.amazonaws.com/amdegroot-models/ssd300_mAP_77.43_v2.pth 
+   - We will simply load this file to do the object detection using the pretrained model.
+   - We will transfer these weights to the model we implement.
 
 ## Libraries/ Modules Used :-
 

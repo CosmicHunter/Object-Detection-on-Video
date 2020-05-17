@@ -33,3 +33,7 @@ To make the predictions on the image frames we have made use of pretrained weigh
    
    
 *   **build_ssd** will be the constructor of the neural network
+
+## Output Detection Video Sample
+
+![](readme_resource/output1gif.gif)
